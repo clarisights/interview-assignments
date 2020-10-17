@@ -1,4 +1,4 @@
-## Setup Apache Drill on Kubernetes				
+ 				
 
 **Context:** At Clarisights, we pull data from a lot of different APIs (for eg. fb, adwords, twitter, adjust etc) and store it in our database system.
 Consider a scenario where we are pulling data from [Google Ads API](https://developers.google.com/google-ads/api/docs/start). The data that we pull consists of
