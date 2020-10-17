@@ -4,7 +4,7 @@
 2. Code quality
 3. Code Performance
 
-**Problem Statement**: larisights is a data visualization platform. The heart of data visualization tool is tables. 
+**Problem Statement**: Clarisights is a data visualization platform. The heart of data visualization tool is tables. 
 We intend our tables to be top notch and smooth while loading 1000s of rows. We would like you to build a table which
 can handle up to 1000 rows without hiccups. The table is expected to have the following:
 
