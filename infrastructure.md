@@ -14,7 +14,7 @@ Apache Drill running in clustered mode with at least two drill bits
 4. A distributed file system like HDFS is not required.
 5. The submission should be self sufficient and able to be deployed without changes on a real Kubernetes cluster (Hint: You can use MiniKube or Katakoda for testing).
 
-Make your submission in a private repository on Github or Bitbucket, add your code as a new pull request and add [@ashu210890](https://github.com/ashu210890), and [@palnabarun](https://github.com/palnabarun) as reviewers. 		
+Make your submission in a private repository on Github or Bitbucket, add your code as a new pull request and add [@ashu210890](https://github.com/ashu210890), and [@vijaynandwani](https://github.com/vijaynandwani) as reviewers. 		
 
 We understand that the problem requires reading up on several systems. So, you take your time to come up with a solution, but let us know when we should expect your solution. Feel free to reach out to us if you have any questions.
 
