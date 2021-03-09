@@ -12,7 +12,8 @@ Apache Drill running in clustered mode with at least two drill bits
 2. Verify that all drill bits successfully join the cluster and can reach each other.
 3. Deploy Drill's web UI also on Kubernetes.
 4. A distributed file system like HDFS is not required.
-5. The submission should be self sufficient and able to be deployed without changes on a real Kubernetes cluster (Hint: You can use MiniKube or Katakoda for testing).
+5. Ensure that your solution is resilient to failures and the healthiness of Drill and Zookeeper is maintained.
+6. The submission should be self sufficient and able to be deployed without changes on a real Kubernetes cluster (Hint: You can use MiniKube or Katakoda for testing).
 
 Make your submission in a private repository on Github or Bitbucket, add your code as a new pull request and add [@ashu210890](https://github.com/ashu210890), and [@vijaynandwani](https://github.com/vijaynandwani) as reviewers. 		
 
