@@ -38,7 +38,7 @@ There is also an additional problem statement, for those who want an extra chall
 You can also choose to write this using Typescript Strict mode, which is what we use in the company.
 
 **Contacting us**: 
-If you have any questions, have feedback about this assignment, or need any help, you can respond to the email you got this from, or to ​srijan.agarwal@clarisights.com
+If you have any questions, have feedback about this assignment, or need any help, you can respond to the email you got this from, or to ​ankur@clarisights.com
 
 
 
