@@ -24,6 +24,6 @@ Note: You can use any libraries needed to build this component, document your pe
 
 **Bonus:** In the column heading if you can give an option to toggle trend chart for that column would be neat.
 
-To review you can add @anshumanv and @ssrva to your repository.
+To review you can add @ankuriitk and @ashu210890 to your repository.
 
 API Response: https://clarisights-users.s3.eu-central-1.amazonaws.com/frontend-assignment/1000+items+table+response.json
